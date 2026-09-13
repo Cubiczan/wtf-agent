@@ -1,0 +1,2 @@
+# Direct runtime deps for python/watcher.py
+requests
